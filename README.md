@@ -7,6 +7,7 @@
 <img width="24" height="24" alt="CSS Icon" src="https://github.com/user-attachments/assets/5069338c-dbd4-454d-8e51-1f86dea2702a" />
 <h2>Resultado</h2>
 <img width="auto" src="https://github.com/JuniorTeodoro89/we-care-challenge/blob/master/Img/project-we-care.png?raw=true" alt="result-image" />
+<a href="https://juniorteodoro89.github.io/we-care-challenge/" target="_blank">Acesse a página!</a>
 <hr style="border: 1px solid black; width: 50%; margin: auto;">
 
 <p>Feito com ♥ por Júnior Teodoro 👋 <a href="https://www.linkedin.com/in/j%C3%BAnior-alves-teodoro/" target="_blank">Entre em contato!</a></p>
